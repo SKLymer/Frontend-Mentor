@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.Order Summary Challenge/screenshot.jpg)
+![](./screenshot.jpg)
 
 
 ### Links
