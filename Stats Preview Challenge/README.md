@@ -25,7 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+![](./stats-card-preview.png)
+
+- Solution URL: https://github.com/SKLymer/Frontend-Mentor
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -48,13 +50,13 @@ a bit disoriented when I finally got to the desktop design, but I'll stick with 
 When your image is a landscape and container is portrait set image height to max-height: 100%;
 I was introduced to the mix-blend-mode: css property that finally got me the shade of purple to match the design.
 
--I tried srcset for image but it was taking me for a ride. So I'd have to spend more time practicing with it. Went back to the dual image system.
+-I tried srcset for image but it was taking me for a ride. So I'll have to spend more time practicing with it. Went back to the dual image system and switching them out using media queries.
 
--Using margin-top to shift elements down doesn't affect overall size of container, but margin-bottom seemingly does, I'll also have
+-Using margin-top (while padding is set), to shift elements down doesn't affect overall size of container, but margin-bottom seemingly does, I'll also have
 to test this some more. 
 
 -Setting overall layout and design at smallest and largest viewports, then making slight adjustments for any overlapping or design flaws at
-other view points works for me.
+other viewpoints works for me.
 
 
 Custom Properties are always a joy to use
